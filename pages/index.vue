@@ -1,32 +1,7 @@
 <template>
-  <CardDetail class="col-span-2">
-    <Detail name="Mode">
-      HIATUS
-    </Detail>
-    <Detail name="Mood">
-      😫
-    </Detail>
-    <Detail name="Name">
-      Guilherme
-    </Detail>
-    <Detail name="Surname">
-      Pangnotta
-    </Detail>
-    <Detail name="Since">
-      <Tag color="bg-emerald-500">
-        2008
-      </Tag>
-    </Detail>
-    <Detail name="Nationality">
-      Brasil
-    </Detail>
-    <Detail name="Food">
-      🍔
-    </Detail>
-    <Detail name="Family">
-      👩🐶🐶🐶🐱🐱
-    </Detail>
-  </CardDetail>
+  <div class="px-2">
+    break; &lt;br/&gt;
+  </div>
 </template>
 <script>
   export default {
