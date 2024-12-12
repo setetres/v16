@@ -73,6 +73,12 @@ export default defineNuxtConfig({
   css: [
     '~/assets/css/application.scss'
   ],
+  plugins: [
+    {
+      src: '~/plugins/dp.js',
+      mode: 'client',
+    },
+  ],
   postcss: {
     plugins: {
       tailwindcss: {},
